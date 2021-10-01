@@ -30,7 +30,7 @@ body {
 
 .button:hover {
     background-color: Black;
-    color: white;
+    color: red;
 }
 
 .textarea:hover {
